@@ -1,0 +1,6 @@
+adversarial-robustness-toolbox[pytorch]>=1.8,<=1.9
+tqdm
+notebook
+ipywidgets
+matplotlib
+statsmodels
